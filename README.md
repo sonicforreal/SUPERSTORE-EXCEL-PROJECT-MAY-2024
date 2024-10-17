@@ -23,3 +23,5 @@ Conclusion & Recommendations :
 To improve Veena Stores’ sales, focus marketing efforts on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh. 
 Utilize targeted ads, offers, and coupons through Amazon, Flipkart, and Myntra to engage this key demographic.
 
+
+![c](https://github.com/user-attachments/assets/f2eb7db2-d765-4051-973b-0564cc7cd4a3)
